@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>A pokemon wikipedia</title>
+</head>
+
+<body>
+    <h1>A pokemon chart</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Evolves to</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="http://img4.wikia.nocookie.net/__cb20140328190757/pokemon/images/thumb/2/21/001Bulbasaur.png/200px-001Bulbasaur.png" alt="Fire Gragon"></td>
+                <td>Bulbasaur</td>
+                <td>Grass/Poison</td>
+                <td><a href="http://pokemon.wikia.com/wiki/Ivysaur ">Ivysaur</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
